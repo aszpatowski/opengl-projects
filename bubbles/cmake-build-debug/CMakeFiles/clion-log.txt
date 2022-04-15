@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/aleksander/Pulpit/podstawy_grafiki/podstawy_grafiki/5_zadanie_bubbles Select CMakeLists.txt
