@@ -1,5 +1,5 @@
 # OpenGL Projects
-Projects prepared for "Fundamentals of computer graphics" classes. 2021, 6 semester.<br/>
+Projects prepared for "Fundamentals of computer graphics" classes. 2021, 5 semester.<br/>
 Technologies: 
 - C++, 
 - OpenGL (3.3+), 
